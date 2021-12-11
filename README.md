@@ -1,1 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2-chanhee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2-chanhee&layout=compact&exclude_repo=2-chanhee/algorithm,2-chanhee/language-framework,2-chanhee/iot_product_lab)](https://github.com/anuraghazra/github-readme-stats)
+
